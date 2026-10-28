@@ -1,0 +1,21 @@
+/* Headings */
+
+h2 {
+    color: #1E3A8A;
+}
+
+h3 {
+    color: #475569;
+}
+
+/* Success Cards */
+
+[data-testid="stAlert"] {
+    border-radius: 12px;
+}
+
+/* Info Boxes */
+
+.stAlert {
+    border-radius: 12px;
+}
